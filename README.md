@@ -1,5 +1,5 @@
 # Real-time Power Monitor — Modern UI (SQLite)
-
+มีความเที่ยงตรง โดยประมาณ 7.5 คะแนน เมื่อมี GPU แยก ถ้าไม่มี 6 คะแนน
 Modern Tkinter app (CustomTkinter) สำหรับประมาณกำลังไฟ/พลังงาน (kWh) แบบเรียลไทม์
 รองรับ **Overlay**, **Tray**, **Autostart (Windows Registry)** และ **สรุปเป็นรายวัน (SQLite)**
 ไม่รองรับ GPU AMD
